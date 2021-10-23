@@ -23,3 +23,5 @@ def CheckUsbDevices():
     # if yes -> just say device connected and green circle
     # if not -> propmt user to enter name for new device
         # -> store device name and id in device.JSON
+
+# https://docs.microsoft.com/en-us/previous-versions/windows/desktop/cimwin32a/win32-usbhub
